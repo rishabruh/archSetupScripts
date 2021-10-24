@@ -1,4 +1,6 @@
 # archSetupScripts
+!!Scripts are made for my own use but you are free to fork and modify as you like (probably not a good idea these scripts are badly written)!!
+# info
 Arch-based system setup scripts for systems such as Arch, Manjaro, EndeavourOS, etc. These scripts can be easily customised for installing preferred packages. 
 # How to use
 Caution: Never execute random scripts from the internet unless you trust the source. Be sure to check the scripts for yourself in a text editor before executing. 
