@@ -1,6 +1,11 @@
 #!/bin/bash
 
 echo ===============================
+echo "Installing flatpak (select 'N' if already installed)"
+echo ===============================
+sudo pacman -Syu flatpak
+
+echo ===============================
 echo Installing hamachi and haguichi
 echo ===============================
 sudo flatpak install haguichi 
