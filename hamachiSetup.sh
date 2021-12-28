@@ -18,7 +18,7 @@ yay -S logmein-hamachi
 sudo flatpak install haguichi 
 
 echo =============================== 
-echo Enabling daemon
+echo Enabling and starting logmein-hamachi daemon
 echo ===============================
 sudo systemctl enable logmein-hamachi.service
 sudo systemctl start logmein-hamachi.service
